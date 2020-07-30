@@ -1,0 +1,31 @@
+html {
+  background: #E6DADA;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #274046, #E6DADA);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #274046, #E6DADA); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+body {
+  margin: 35px 10px 40px 10px;
+}
+
+.container {
+  width: 100%;
+  max-width: 680px;
+  margin: 0 auto;
+}
+
+a {
+  text-decoration: none;
+}
+.link {
+  display: block;
+  text-align: center;
+  padding: 15px 0 15px 0;
+  margin: 12px 0 11px 0;
+  border: 2px solid white;
+}
+ul {
+  list-style: none;
+  text-align: center;
+}
