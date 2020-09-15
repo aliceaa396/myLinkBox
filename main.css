@@ -13,6 +13,13 @@ html {
   grid-area: auto;
 }
 
+a :hover {
+  color: purple;
+}
+button {
+  cursor: pointer;
+}
+
 body {
   min-height: 560px;
 }
